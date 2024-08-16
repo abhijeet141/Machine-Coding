@@ -1,0 +1,70 @@
+{
+    "name": "File Explorer",
+    "type": "folder",
+    "children":[{
+        "name": "node_modules",
+        "type": "folder",
+        "children":[]
+    },{
+        "name": "public",
+        "type": "folder",
+        "children":[{
+            "name": "vite.svg",
+            "type": "file"
+        }]
+    },{
+        "name": "src",
+        "type": "folder",
+        "children":[{
+            "name": "assets",
+            "type": "folder",
+            "children":[{
+                "name": "react.svg",
+                "type": "file"
+            }]
+        },{
+            "name": "component",
+            "type": "folder",
+            "children":[{
+                "name": "FileExplorer.jsx",
+                "type": "file"
+            }]
+        },{
+            "name": "App.css",
+            "type": "file"
+        },{
+            "name": "App.jsx",
+            "type": "file"
+        },{
+            "name": "data.json",
+            "type": "file"
+        },{
+            "name": "index.css",
+            "type": "file"
+        },{
+            "name": "main.jsx",
+            "type": "file"
+        }]
+    },{
+        "name": ".gitignore",
+        "type": "file"    
+    },{
+        "name": "eslint.config.js",
+        "type": "file" 
+    },{
+        "name": "index.html",
+        "type": "file" 
+    },{
+        "name": "package.lock.json",
+        "type": "file" 
+    },{
+        "name": "package.json",
+        "type": "file" 
+    },{
+        "name": "Readme.md",
+        "type": "file" 
+    },{
+        "name": "vite.config.js",
+        "type": "file" 
+    }]
+}
